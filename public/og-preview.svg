@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Israel Enjoyer">
+  <rect width="1200" height="630" fill="#0b0d12"/>
+  <rect x="0" y="0" width="1200" height="120" fill="#0038b8"/>
+  <rect x="0" y="120" width="1200" height="120" fill="#ffffff"/>
+  <rect x="0" y="240" width="1200" height="120" fill="#0038b8"/>
+  <g fill="none" stroke="#0038b8" stroke-width="10" stroke-linejoin="round" transform="translate(600 180)">
+    <path d="M0 -48 L41.6 24 L-41.6 24 Z"/>
+    <path d="M0 48 L-41.6 -24 L41.6 -24 Z"/>
+  </g>
+  <text x="600" y="420" text-anchor="middle" fill="#f2f4f8" font-family="system-ui,sans-serif" font-size="72" font-weight="600">баррри-1-2</text>
+  <text x="600" y="490" text-anchor="middle" fill="#9aa3b2" font-family="system-ui,sans-serif" font-size="32">mur1no.shop</text>
+</svg>
